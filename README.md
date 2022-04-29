@@ -22,7 +22,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>
 </div>
 
+<p>
 ⚡ My work focuses on native iOS app development, with some occasional work as-needed on cross-platform frameworks like React Native / Flutter when certain clients need that capability. 🏆
+</p>
 
 ### My Stats
 
