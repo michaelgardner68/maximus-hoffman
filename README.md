@@ -24,6 +24,8 @@
 
 ⚡ My work focuses on native iOS app development, with some occasional work as-needed on cross-platform frameworks like React Native / Flutter when certain clients need that capability. 🏆
 
+### My Stats
+
 <p>
 <a href="https://github.com/maximus-hoffman">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smiledev1230&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
