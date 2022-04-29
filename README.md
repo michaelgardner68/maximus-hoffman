@@ -20,11 +20,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>
-</div>
+</div><br />
 
-<p>
 ⚡ My work focuses on native iOS app development, with some occasional work as-needed on cross-platform frameworks like React Native / Flutter when certain clients need that capability. 🏆
-</p>
 
 ### My Stats
 
