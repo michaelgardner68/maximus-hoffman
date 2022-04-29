@@ -9,10 +9,6 @@
 - MySQL, MongoDB, SQLite
 - Firebase, AWS
 
-⚡ My work focuses on native iOS app development, with some occasional work as-needed on cross-platform frameworks like React Native / Flutter when certain clients need that capability. 🏆
-
-### Main Skills
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" title="Objective-C" alt="Objective-C" width="40" height="40"/>&nbsp;
@@ -25,6 +21,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>
 </div>
+
+⚡ My work focuses on native iOS app development, with some occasional work as-needed on cross-platform frameworks like React Native / Flutter when certain clients need that capability. 🏆
 
 ### My Stats
 
