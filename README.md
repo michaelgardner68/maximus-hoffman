@@ -1,13 +1,15 @@
-### Hi there 👋
+### About Me
 
-🔭 To create and improve the mobile app products whatever the client needs to do is my main goal. As a professional mobile app developer, I have been working with modern development patterns such as MVC, MVVM, and MVP.
+As a Senior Mobile Developer, I have over 10 years of deep mobile app development experience plus additional years of full-cycle experience in multiple roles and environments, including healthcare, fitness, social networking, financial, medical, and management. 
 
-🔑 My skill sets are as below:
-- Native iOS app development using Objective-C, Swift
-- Hybrid iOS/Android app development using React Native, Flutter
-- Backend development for mobile apps using PHP, Node.js
-- MySQL, MongoDB, SQLite
-- Firebase, AWS
+My skills:
+- Native Mobile (iOS & Android): Objective-C, Swift, Java, Kotlin
+- Hybrid: React Native, Flutter, NativeScript
+- Project Management Tools: Trello, Jira, Asana
+- Version Control Tools: GitHub, Bitbucket
+- Firebase, AWS, Firebase
+
+Whether you just need capable manpower, need to hire someone for a one-off or long-term task, or want a brand-new app, I would be glad to step in and help!
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
