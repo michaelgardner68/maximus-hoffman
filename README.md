@@ -1,8 +1,8 @@
-### About Me
+## About Me
 
 As a Senior Mobile Developer, I have over 10 years of deep mobile app development experience plus additional years of full-cycle experience in multiple roles and environments, including healthcare, fitness, social networking, financial, medical, and management. Whether you just need capable manpower, need to hire someone for a one-off or long-term task, or want a brand-new app, I would be glad to step in and help!
 
-### Skills
+## Skills
 
 - Native Mobile (iOS & Android): Objective-C, Swift, Java, Kotlin
 - Hybrid: React Native, Flutter, NativeScript
@@ -23,7 +23,7 @@ As a Senior Mobile Developer, I have over 10 years of deep mobile app developmen
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>
 </div>
 
-### My Stats
+## My Stats
 
 <p>
 <a href="https://github.com/maximus-hoffman">
