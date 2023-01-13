@@ -1,6 +1,6 @@
 ### About Me
 
-⚡ As a Senior Mobile Developer, I have over 10 years of deep mobile app development experience plus additional years of full-cycle experience in multiple roles and environments, including healthcare, fitness, social networking, financial, medical, and management. 
+As a Senior Mobile Developer, I have over 10 years of deep mobile app development experience plus additional years of full-cycle experience in multiple roles and environments, including healthcare, fitness, social networking, financial, medical, and management. 
 
 My skills:
 - Native Mobile (iOS & Android): Objective-C, Swift, Java, Kotlin
@@ -9,7 +9,7 @@ My skills:
 - Version Control Tools: GitHub, Bitbucket
 - Firebase, AWS, Firebase
 
-Whether you just need capable manpower, need to hire someone for a one-off or long-term task, or want a brand-new app, I would be glad to step in and help! 🏆
+Whether you just need capable manpower, need to hire someone for a one-off or long-term task, or want a brand-new app, I would be glad to step in and help!
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
